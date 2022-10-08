@@ -6,6 +6,7 @@
  * Author: Kaede Fujisaki
  * Author URI: https://7io.org
  * Version: 1.0.1
+ * License: AGPLv3 or later
  * GitHub Plugin URL: ledyba/wp-filename-by-md5
  */
 
