@@ -7,7 +7,6 @@
  * Author URI: https://7io.org
  * Version: 1.0.1
  * GitHub Plugin URL: ledyba/wp-filename-by-md5
- *
  */
 
 if( !function_exists( 'wp_rename_filename_by_md5' ) ) {
