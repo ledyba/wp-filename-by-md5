@@ -5,7 +5,7 @@
  * Description: Hashify filename from content
  * Author: Kaede Fujisaki
  * Author URI: https://7io.org
- * Version: 1.0.0
+ * Version: 1.0.1
  * GitHub Plugin URL: ledyba/wp-filename-by-md5
  *
  */
