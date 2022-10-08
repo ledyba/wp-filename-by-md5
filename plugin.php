@@ -3,7 +3,7 @@
  * Plugin Name: wp-filename-by-md5
  * Plugin URI: https://github.com/ledyba/wp-filename-by-md5
  * Description: Hashify filename from content
- * Author: PSI
+ * Author: Kaede Fujisaki
  * Author URI: https://7io.org
  * Version: 1.0.0
  * GitHub Plugin URL: ledyba/wp-filename-by-md5
